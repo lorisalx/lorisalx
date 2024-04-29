@@ -8,15 +8,14 @@
 
 
 ### A little about me... 
-I'm an **engineering student🎓** and apprentice at Boursorama. I'm love discovering **new web technologies🌐** and look forward to discovering the evolution of the web ecosystem !
+I'm an **engineering student🎓** and apprentice at Boursorama. Currently passionate about LLMs world !
 
 
 
-## ⚡️ A Few Quick Facts
+## ⚡️ Quick Facts
 
-- 🌱 I’m currently learning vim ☕
-- 💬 Ask me about new web technologies
+- 💬 Ask me about new web technologies or Large Language Models
 - 📙 Check out my [Resume](https://www.linkedin.com/in/loris-alexandre/)
-- 🎉 Fun-Fact: I love Tennis 🎾 and Surf 🏄
+- 🎾 Tennis addict
 
 👇 Check out my most recent projects ! 

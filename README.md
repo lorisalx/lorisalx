@@ -8,7 +8,7 @@
 
 
 ### A little about me... 
-I'm an **engineering student🎓** and apprentice at Boursorama. Currently passionate about LLMs world !
+I'm an **AI Engineer🎓** at Boursorama. Currently passionate about LLMs world !
 
 
 

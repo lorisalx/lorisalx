@@ -8,7 +8,7 @@
 
 
 ### A little about me... 
-I'm an **AI Engineer🎓** at Boursorama. Currently passionate about LLMs world !
+I'm an **AI Engineer🎓** at Dataiku. Currently passionate about LLMs world !
 
 
 
